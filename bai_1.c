@@ -5,13 +5,13 @@ int main() {
   
     float height = 5.9; 
 
-    char grade = 'c'; // Bi?n `grade` lýu k? t? 'A'
+    char grade = 'c'; 
     
     short smallNumber = -123456;
 
     long bigNumber = 100000; 
 
-    // In ra các giá tr? c?a bi?n
+    // In ra cÃ¡c giÃ¡ tr? c?a bi?n
     printf("tuoi: %d\n", age);
     printf("chieu cao: %f\n", height); 
     printf("lop: %c\n", grade);
